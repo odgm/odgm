@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odgm
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m currently learning Front-end development and software testing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
